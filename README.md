@@ -1,6 +1,6 @@
 # Lojinha API Automação
 
-Esse é um reporiório que contem a automação de alguns testes de API Rest de um software denominado Lojinha, criado em acompanhamento com as aulas do Módulo 9 do Programa de Testes e Qualidade de Software (PTQS), curso criado e ministrado por [Julio de Lima](https://github.com/juliointest). 
+Esse é um repositório que contem a automação de alguns testes de API Rest de um software denominado Lojinha, criado em acompanhamento com as aulas do Módulo 9 do Programa de Testes e Qualidade de Software (PTQS), curso criado e ministrado por [Julio de Lima](https://github.com/juliointest). 
 Os sub-tópicos abaixo descrevem algumas decisões tomadas na estruturação do projeto.
 
 ## Tecnologias Utilizadas
